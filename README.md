@@ -1,4 +1,4 @@
-# My First devops lab
+# GitHub Pipeline - CI
 ## About
 A beginner-level project designed to explore DevOps fundamentals through GitHub Actions, Linux commands, and workflow automation.
 ## Objectives
